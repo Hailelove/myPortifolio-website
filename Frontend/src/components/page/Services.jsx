@@ -98,14 +98,10 @@ const SERVICES = [
     title: "Web Development",
     desc: "Modern, responsive websites and SPAs built with React and Next.js.",
   },
-  {
-    icon: Layers,
-    title: "Mobile App Development",
-    desc: "Cross-platform mobile apps using React Native.",
-  },
+
   {
     icon: Wrench,
-    title: "UI/UX Design",
+    title: "UI/UX/Figma Design",
     desc: "User-centered interfaces that balance beauty and usability.",
   },
   {
@@ -122,6 +118,11 @@ const SERVICES = [
     icon: Award,
     title: "System Analysis",
     desc: "Architecture, planning, and technical consulting for complex systems.",
+  },
+  {
+    icon: Layers,
+    title: "Mobile App Development",
+    desc: "Cross-platform mobile apps using React Native.",
   },
 ];
 

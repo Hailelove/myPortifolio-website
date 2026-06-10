@@ -46,28 +46,29 @@ const PROJECTS = [
     githubUrl: "https://github.com/Hailelove/Web-base-e-commerce-system-",
     liveUrl: "#",
   },
+
+  {
+    name: "Transcript & Original Document Acquisition System",
+    desc: "A secure web-based platform that allows graduates to request, track, and receive official transcripts and original academic documents online from anywhere. It streamlines document requests, verification, approval workflows, and digital delivery between graduates and university administration.",
+    tech: ["React", "Express", "MongoDB"],
+    status: "In progress",
+    images: [
+      "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80",
+    ],
+    githubUrl: "https://github.com/Hailelove/original-tempo",
+    liveUrl: "#",
+  },
   {
     name: "School Management System",
     desc: "Comprehensive platform for students, teachers, courses, exams, attendance, and reports.",
     tech: ["React", "Node.js", "PostgreSQL"],
-    status: "In Progress",
+    status: "In progress",
     images: [
       "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&q=80",
       "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&q=80",
     ],
-    githubUrl: "https://github.com/yourusername/school-management",
-    liveUrl: "#",
-  },
-  {
-    name: "Inventory Management System",
-    desc: "Real-time tracking of products, stock levels, suppliers, and sales pipelines.",
-    tech: ["React", "Express", "MySQL"],
-    status: "Live",
-    images: [
-      "https://images.unsplash.com/photo-1586528116311-ad8ed7c1590a?auto=format&fit=crop&q=80",
-      "https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&q=80",
-    ],
-    githubUrl: "https://github.com/yourusername/inventory-system",
+    githubUrl: "#",
     liveUrl: "#",
   },
 ];

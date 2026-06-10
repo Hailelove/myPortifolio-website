@@ -49,6 +49,14 @@ export default function Hero() {
             >
               Contact
             </a>
+            {/* <a
+              href="https://yourwebsite.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-6 py-3 border border-border rounded-full font-medium hover:bg-muted/50 transition"
+            >
+              Visit Profile
+            </a> */}
           </div>
 
           {/* Social Links */}
@@ -71,6 +79,7 @@ export default function Hero() {
             >
               <FaLinkedin className="h-6 w-6" />
             </a>
+
             {/* <a
               href="https://twitter.com/demeke"
               target="_blank"
@@ -89,6 +98,15 @@ export default function Hero() {
             >
               <Send className="h-6 w-6" />
             </a>
+            {/* <a
+              href="https://yourwebsite.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Profile"
+              className="transition-all duration-300 hover:text-primary hover:-translate-y-1"
+            >
+              Visit profile
+            </a> */}
           </div>
         </motion.div>
 
